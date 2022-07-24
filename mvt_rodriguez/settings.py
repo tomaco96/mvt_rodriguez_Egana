@@ -55,7 +55,7 @@ ROOT_URLCONF = 'mvt_rodriguez.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/Tomi/Desktop/mvt_tomasrodriguez/mvt_rodriguez/app_coder/migrations/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
